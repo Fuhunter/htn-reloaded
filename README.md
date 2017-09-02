@@ -82,7 +82,7 @@ Edited version of HTN 2.1 from seberoth
    Dann öffne man die entspr. Datei und suche dort nach Wert dieses Parameters. Dann dürfte
    man relativ schnell fündig werden!
 
-6  Config anpassung der Zugangsdaten für die Datenbank
+6. Config anpassung der Zugangsdaten für die Datenbank
    Betroffen sind die Zeillen 13 bis 22
    $db_username = 'benutzer';  benutzer hier mit dem Benutzernamen der Datenbank ersetzen
    $db_password = 'password';  password mit dem password der Datenbank ersetzen
